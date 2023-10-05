@@ -1,11 +1,11 @@
 all_posts = [
     {
-        "post_id": 1,
+        "postId": 1,
         "title": "One",
         "content": "aa"
     },
     {
-        "post_id": 2,
+        "postId": 2,
         "title": "Two",
         "content": "bb"
     }
@@ -13,7 +13,7 @@ all_posts = [
 
 all_users = [
     {
-        "user_id": 1,
+        "userId": 1,
         "email": "abc@gmail.com",
         "password": "abc"
     }
